@@ -6,7 +6,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF3A00?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/HiddenCode/)
 [![Join our Telegram ENG](https://img.shields.io/badge/Telegram-EN-03A500?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=red)](https://t.me/hidden_coding_en)
 
-<img width="1142" height="654" alt="image" src="https://github.com/user-attachments/assets/786d3076-d417-4160-b424-d40111d9eda1" />
+<img width="1142" height="654" alt="image" src="https://github.com/user-attachments/assets/96fed804-11fd-4dae-845e-a73ba1d9555c" />
 
 This Python script automates the process of creating a temporary email address, polling for incoming messages, and extracting confirmation links or codes from emails. It uses the `cloudscraper` library to handle HTTP requests and bypass Cloudflare protection, with optional proxy support for enhanced anonymity.
 

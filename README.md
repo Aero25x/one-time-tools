@@ -1,6 +1,9 @@
 # Email Automation Script
 
+<img width="1142" height="654" alt="image" src="https://github.com/user-attachments/assets/786d3076-d417-4160-b424-d40111d9eda1" />
+
 This Python script automates the process of creating a temporary email address, polling for incoming messages, and extracting confirmation links or codes from emails. It uses the `cloudscraper` library to handle HTTP requests and bypass Cloudflare protection, with optional proxy support for enhanced anonymity.
+
 
 ## Features
 - Creates a temporary email address using a service like `web2.temp-mail.org`.
